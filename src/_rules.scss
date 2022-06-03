@@ -1,0 +1,21 @@
+* { 
+    max-height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.card {
+    height: 80vh;
+}
+
+.card-header {
+    border-bottom: none !important;
+}
+
+#tabContent {
+    height: 100%;
+}
+
+#footer {
+    height: auto;
+}
